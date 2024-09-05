@@ -1,0 +1,3 @@
+[submodule "monitoring-experiment"]
+	path = monitoring-experiment
+	url = https://github.com/longavailable/donglongroad-hydro-monitoring-experiment
