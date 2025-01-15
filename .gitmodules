@@ -1,3 +1,6 @@
 [submodule "monitoring-experiment"]
 	path = monitoring-experiment
 	url = https://github.com/longavailable/donglongroad-hydro-monitoring-experiment
+[submodule "kunshan-rainfall"]
+	path = kunshan-rainfall
+	url = https://github.com/longavailable/kunshan-rainfall
