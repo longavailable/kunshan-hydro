@@ -4,3 +4,6 @@
 [submodule "kunshan-rainfall"]
 	path = kunshan-rainfall
 	url = https://github.com/longavailable/kunshan-rainfall
+[submodule "hydrodata"]
+	path = hydrodata
+	url = https://github.com/longavailable/donglongroad-hydrodata
